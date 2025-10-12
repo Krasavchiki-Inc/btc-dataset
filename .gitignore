@@ -39,3 +39,7 @@ dist/
 
 # Логи
 *.log
+
+# table data
+btcusd_1-min_data.csv
+bts-usdt_1min_dataConv.csv
