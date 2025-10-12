@@ -1,0 +1,41 @@
+# Бинарные файлы
+*.exe
+*.out
+*.app
+squeeze_detector
+
+# Объектные файлы
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.lib
+
+# Кэш компилятора
+*.gcno
+*.gcda
+*.gcov
+
+# Директории сборки
+build/
+dist/
+*.dSYM/
+
+# Сгенерированные файлы
+*.d
+*.s
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Резервные копии
+*~
+*.bak
+*.backup
+
+# Логи
+*.log
