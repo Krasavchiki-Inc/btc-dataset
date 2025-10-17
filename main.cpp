@@ -71,7 +71,11 @@ int main()
 
     if (!BTCdata.is_open())
     {
+<<<<<<< HEAD
         cerr << "Не удалось открыть файл: " << path << endl;
+=======
+        cerr << "Не удалось  открыть файл: " << path << endl;
+>>>>>>> 984838a9b6cb7ddaf058d9b08449289fb0f53f11
         return 1;
     }
 
